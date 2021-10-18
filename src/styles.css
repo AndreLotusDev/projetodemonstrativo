@@ -1,1 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+@import "./reset.css";
+
+:root {
+    --green-project: 59, 169, 81;
+	--blue-marine: 18, 38, 51;
+	--black-basic: 36, 37, 37;
+	--black-light-basic: 50, 51, 51;
+	--light-white: 201, 196, 196;
+}
+
+body {
+    font-family: 'Roboto', sans-serif; 
+	background-color: rgba(var(--blue-marine));
+}
+
+.px20py10 {
+
+	padding: 20px 10px;
+
+}
+
+.transparent {
+	background-color: transparent;
+}
+
+.black-basic {
+	background-color: rgb(var(--black-basic));
+}
+
+.greenfont {
+	color: rgb(var(--green-project))
+}
+

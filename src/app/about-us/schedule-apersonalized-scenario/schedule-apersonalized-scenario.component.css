@@ -1,0 +1,12 @@
+#schedule_a_personalized_demo {
+    background-image: url(./../../assets/mundi.jpg);
+    background-repeat: no-repeat;
+}
+
+    #form_schedule_personalized_demo input {
+        margin: 0 10px;
+    }
+
+    #form_schedule_personalized_demo textarea {
+        height: 20vh;
+    }

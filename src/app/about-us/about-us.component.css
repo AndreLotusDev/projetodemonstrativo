@@ -1,0 +1,18 @@
+.border {
+    border-width: 3px !important;
+}
+
+.light-border {
+    border: 2px solid lightgray;
+}
+
+.learn-more-btn {
+    color: rgb(var(--green-project));
+}
+
+    .learn-more-btn:hover {
+        cursor: pointer;
+        outline-style: none;
+    }
+
+

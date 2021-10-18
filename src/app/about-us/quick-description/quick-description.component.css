@@ -1,0 +1,8 @@
+#join_private_beta_input span {
+    background-color: rgb(var(--green-project));
+    color: white;
+}
+
+    #join_private_beta_input span {
+        background-color: rgb(var(--green-project));
+    }

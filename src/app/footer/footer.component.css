@@ -1,0 +1,19 @@
+#second_column li:hover {
+    color: rgb(var(--green-project));
+    cursor: pointer;
+}
+
+#input_newsletter input {
+    padding: 20px 10px;
+}
+
+#lowest_footer li {
+    margin: 0 5px;
+    font-size: 12px;
+    color: #5e5d5a;
+}
+
+#lowest_footer  li:hover {
+    color: rgb(var(--green-project));
+    cursor: pointer;
+}

@@ -1,0 +1,38 @@
+#how_plataform_work_section {
+    background-color: rgb(var(--black-basic));
+    color: white;
+}
+
+#cards_about_my_company .card >h5  {
+    font-size: 20px;
+    color: rgb(211, 165, 49);
+}
+
+.card {
+    margin: 0 20px;
+}
+
+    .card img {
+        min-height: 326px;
+    }
+
+.circle_counting {
+
+    background: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%; 
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    color: lightgray;
+
+}
+
+.relative_circle {
+    position: relative;
+    top: -30px;
+    outline-style: none;
+}

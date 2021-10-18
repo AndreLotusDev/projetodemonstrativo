@@ -1,0 +1,11 @@
+#free_no_code_info {
+    background-color: rgb(var(--black-basic));
+}
+
+    #talk_to_a_expert_btn {
+        color: rgb(var(--green-project));
+    }
+
+    #talk_to_a_expert_btn:hover {
+        color: white;
+    }

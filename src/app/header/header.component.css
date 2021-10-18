@@ -1,0 +1,40 @@
+.hoverable a:hover  {
+    color: lime;
+    cursor: pointer;
+}
+
+a >strong:hover {
+    color: lime;
+    cursor: pointer;
+}
+
+#social_medias {
+    margin: 8px 0px;
+}
+
+    #social_medias a {
+        padding: 0px 5px;
+        font-size: 13px;
+    }
+
+nav#datalake_nav {
+    background-color: rgba(36,37,37) !important;
+}
+
+    nav#datalake_nav a {
+        color: white;
+    }
+
+#book_a_demo {
+    border-width: 2px;
+    background: transparent;
+    color: rgb(154, 240, 239);
+}
+
+    #book_a_demo:hover {
+        color: rgb(var(--green-project))
+    }
+
+
+
+

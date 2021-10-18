@@ -1,0 +1,13 @@
+#no_bad_data_row {
+    background-color: rgb(var(--black-basic));
+
+    padding-top: 100px !important;
+}
+
+    #information_aside_why_datalake {
+        font-size: 26px;
+    }
+
+        #information_aside_why_datalake_pros {
+            font-size: 20px;            
+        }
